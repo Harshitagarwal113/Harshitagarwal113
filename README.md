@@ -114,7 +114,11 @@
 
 ## 🐍 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-snake.info/snake.svg?github=Harshitagarwal113&color_snake=purple&color_dots=#bfbdbe,#ebedf0,#e2d1f9,#b19ffb,#806eff,#5125fa" width="100%" alt="Snake Game" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshitagarwal113/Harshitagarwal113/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshitagarwal113/Harshitagarwal113/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Harshitagarwal113/Harshitagarwal113/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
+  </picture>
 </div>
 
 <br />
