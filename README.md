@@ -138,8 +138,4 @@
 
 <br />
 
-<div align="center">
-  <hr width="50%" />
-  <h3><i>"Shipping code with main character energy. No 🧢, just high-key optimized vibes."</i></h3>
-  <p><b>— Harshit Agarwal</b></p>
-</div>
+
